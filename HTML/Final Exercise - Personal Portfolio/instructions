@@ -1,0 +1,16 @@
+Your mission is to create yourself an interactive CV which will contain links to the protfolio of work you did today.
+
+It should have three html pages
+
+#1
+1. Your profile image
+2. Title and description about you
+3. Timeline of what you achieved in your career
+4. Your special hobbies
+5. Links to your protfolio
+
+#2 Form to fill details for clients who wants to work with you (you decide what fields)
+
+#3 - Table of your recommendations from previous colleges and friends
+Each row will contain: full name, age, profile image, list of qualities
+

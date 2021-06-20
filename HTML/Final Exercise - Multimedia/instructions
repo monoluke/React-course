@@ -1,0 +1,18 @@
+1. Your task is to build a course for learning a material that you choose (you can choose anything you like)
+2. Since each students has its personal way of learning and understanding the material you should give each students the option to choose the way he wants:
+Textual - by articles and tables with relevant data about the subjects
+Images - by image and short description that explain the subjects
+Videos - with explanation text
+Audio - with explanation text
+3. Each type should have its own page which will contain all the content to learn (3 pieces of content on each page)
+4. Click on a piece of content will link to the content page itself which will contain the whole material
+5. The website should have an home page where the user choose from a list of boxes (each box is the content type + image about it) and it will take him to the relevant contents page
+6. The website has a menu in all the pages with links: text, images, videos and audio. Each one will link the relevant page of content also
+7. Use all the best practices you learned : tags, attributes, security.
+8. Bonus for advanced coders (iframe)
+- Add a content to learn from another website inside you website
+Videos
+Images
+Texts or whole pages from other websites
+- Make sure the content you use is secured and can use only the relevant stuff it needs to do
+

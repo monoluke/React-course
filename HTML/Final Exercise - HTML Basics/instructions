@@ -1,0 +1,21 @@
+1. Create a newspaper page of the news you made up for today
+- If not clear, it should be in English
+- No styles needed currently
+- It should contain 3 articles which contains
+- Titles, sub-titles, lists and links to websites you decide to add (ynet, maariv...)
+- Title for the tab of the page
+- metadata for SEO
+- Debug your page and try to edit its content from the inspector using F12 (chrome inspector)
+- Use validation online tools to make sure you html valid - https://validator.w3.org/#validate_by_input
+
+2. Create 2 more pages with one article
+- Add a link to the other pages from the main page you created
+- The first link should open it in a new tab
+- The second link will open it in the same tab
+
+* Example mockup is attached, feel free to be creative
+
+Bonus:
+1. Add title and icon to the tab of your page
+2. Add a link which will send an email with : subject, cc, bcc and content to multiple emails
+
